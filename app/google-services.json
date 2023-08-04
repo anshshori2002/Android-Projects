@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "806336644087",
+    "project_id": "multitask-gmlog",
+    "storage_bucket": "multitask-gmlog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806336644087:android:77e9f8fac740f3e24a24f2",
+        "android_client_info": {
+          "package_name": "com.example.multitask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806336644087-emsg8u8k947f5hsc4dskn7nmbbh1fh8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multitask",
+            "certificate_hash": "d68924387992c843d2c5bdbfcc2f3516953fd820"
+          }
+        },
+        {
+          "client_id": "806336644087-algtatvhr69hu08bq5kkm45l4jekss3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0AWde6Do8WJXJaRezmS2fYBOykpK9fF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806336644087-algtatvhr69hu08bq5kkm45l4jekss3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

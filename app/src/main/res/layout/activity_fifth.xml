@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".Fifth">
+
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:text="MOBILE SERVICES"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="252dp"
+        android:layout_marginTop="151dp"
+        android:layout_marginEnd="10dp"
+        android:background="#47F647"
+        android:textOff="BLUETOOTH IS OFF"
+        android:textOn="BLUETOOTH IS ON"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="156dp"
+        android:paddingLeft="25dp"
+        android:text="BLUETOOTH  "
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton2"
+        android:layout_width="148dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="254dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="10dp"
+        android:background="#47F647"
+        android:textOff="WIFI IS OFF"
+        android:textOn="WIFI IS ON"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="255dp"
+        android:paddingLeft="25dp"
+        android:text="WIFI  "
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton3"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="258dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginEnd="10dp"
+        android:background="#47F647"
+        android:textOff=" FLASH IS OFF"
+        android:textOn="FLASH IS ON"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="355dp"
+        android:paddingLeft="25dp"
+        android:text="FLASH  "
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="455dp"
+        android:paddingLeft="25dp"
+        android:text="CAMERA  "
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton5"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="260dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginEnd="10dp"
+        android:background="#47F647"
+        android:textOff=" CAMERA IS OFF"
+        android:textOn="CAMERA IS ON"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="455dp"
+        android:paddingLeft="25dp"
+        android:text="CAMERA  "
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+
+
+</RelativeLayout>
